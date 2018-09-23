@@ -48,7 +48,7 @@ class App extends Component {
 		//console.log(this.state.blogs)
 		return(
 			<div>
-				<div style={{backgroundImage:'url("./devc.png")', backgroundRepeat:'repeat-y', width:'20%'}}></div>
+				<div style={{backgroundImage:'url("https://storage.googleapis.com/s.shipmall.id/resource/custom-pages/devc.png")', backgroundRepeat:'repeat-y', width:'20%'}}></div>
 				{/*<h1>loading : {JSON.stringify(this.state.loading)}</h1>*/}
 				<div style={{textAlign:'justify',width:'60%',margin:'auto', padding:'2%'}}>
 					<SearchBar 
